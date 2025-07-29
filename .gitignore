@@ -136,6 +136,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.local
 .envrc
 .venv
 env/
@@ -143,6 +144,17 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Streamlit
+.streamlit/
+
+# Vector database
+chroma_db/
+vector_store/
+
+# Data and logs
+data/
+logs/
 
 # Spyder project settings
 .spyderproject

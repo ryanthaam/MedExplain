@@ -1,0 +1,126 @@
+{
+  "id": "2154a0cb-a489-4f05-a932-f6ddb4ae41a5",
+  "title": "can i take panadol 10 times",
+  "messages": [
+    {
+      "id": "01a094f8-535b-4d66-a039-2ec4bcb66692",
+      "content": "can i take panadol 10 times a day",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:42:57.317435",
+      "metadata": {}
+    },
+    {
+      "id": "2d124f5e-7bcb-4af6-887c-0e18188b966e",
+      "content": "I'm sorry, but the information you're asking for about the drug Panadol isn't available in the FDA sources provided. It's important to follow the dosage instructions provided by your healthcare professional or on the drug's packaging. Taking more than the recommended dose of any medication can be dangerous. If you have any questions or concerns about how much Panadol to take, please consult with your healthcare provider.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:43:01.673884",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Omeprazole",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Metoprolol",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Metformin",
+            "section": "Dosage"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "74ca0fc6-ca01-459f-861d-cae914da9f15",
+      "content": "can i take iburpofenm 20 time a day",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:44:13.324043",
+      "metadata": {}
+    },
+    {
+      "id": "a40a29a3-f257-4d49-8c7a-f61c1bbdd703",
+      "content": "No, it is not recommended to take ibuprofen 20 times a day. According to the FDA dosage instructions for ibuprofen, adults and children 12 years and over should take 1 tablet every 4 to 6 hours while symptoms persist. If pain or fever does not respond to 1 tablet, 2 tablets may be used. However, you should not exceed 6 tablets in 24 hours, unless directed by a doctor. Taking more than the recommended dose can increase the risk of severe stomach bleeding and other side effects. Always follow the dosage instructions provided by your healthcare professional or on the medication packaging. If you have any questions or concerns about your medication, please consult your healthcare provider. [Source 1]",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:44:19.581997",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Ibuprofen",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Ibuprofen",
+            "section": "Warnings"
+          },
+          {
+            "drug": "Omeprazole",
+            "section": "Dosage"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "0b96646f-daa0-416b-923a-bbdb8444f608",
+      "content": "can itake mdma everyday",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:45:09.917644",
+      "metadata": {}
+    },
+    {
+      "id": "b962801f-fe48-4f49-9e8c-ad46fc2bc387",
+      "content": "I don't have information about this specific medication in my current database. \n\n\ud83d\udccb **I currently have information about these medications:**\nAlbuterol, Amlodipine, Botulinum, Gabapentin, Hydrochlorothiazide, Ibuprofen, Lisinopril, Losartan, Metformin, Metoprolol.\n(and 3 more...)\n\nYou can ask about any of these, or contact your healthcare provider for information about other medications.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:45:10.992417",
+      "metadata": {
+        "confidence": "Low",
+        "safety_warning": false,
+        "sources": [],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "3d76a325-9887-4a72-8add-efee2297fd96",
+      "content": "what are the  Levetiracetam side effects",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:46:14.480308",
+      "metadata": {}
+    },
+    {
+      "id": "984a890e-c78a-4a34-9905-27a89f1231db",
+      "content": "I'm sorry, but the information provided does not include any details on the side effects of Levetiracetam. It's important to consult with a healthcare professional or refer to FDA-approved sources for accurate information about this medication.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:46:17.192417",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Hydrochlorothiazide",
+            "section": "Adverse Reactions"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Adverse Reactions"
+          },
+          {
+            "drug": "Gabapentin",
+            "section": "Adverse Reactions"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f SAFETY INFORMATION: This information about side effects, interactions, and contraindications is from FDA sources for educational purposes. Your individual risk factors may differ. Always inform your healthcare provider about all medications, supplements, and health conditions. Seek immediate medical attention if you experience serious adverse reactions."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:42:43.830077",
+  "updated_at": "2025-07-28T15:46:17.192440",
+  "metadata": {
+    "session_id": "65058815-0cf6-4edf-acad-b68922d879ae"
+  }
+}

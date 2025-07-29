@@ -1,0 +1,30 @@
+{
+  "id": "4b5de605-532f-4d39-9f69-fd064b9e36a3",
+  "title": "\"What are the side effects of",
+  "messages": [
+    {
+      "id": "b0fe1b69-ca1d-426e-88ee-8130fcaf4c02",
+      "content": "\"What are the side effects of ibuprofen?\"",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:17:10.417630",
+      "metadata": {}
+    },
+    {
+      "id": "cba02c95-bde2-46ab-9fd2-ad51044de78c",
+      "content": "I apologize, but I encountered an error processing your question: Error code: 429 - {'error': {'message': 'Request too large for gpt-4 in organization org-i4HhMaiD7rAeCqsrOZfizZXc on tokens per min (TPM): Limit 10000, Requested 11200. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:17:13.351826",
+      "metadata": {
+        "confidence": "Low",
+        "safety_warning": false,
+        "sources": [],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:17:00.689736",
+  "updated_at": "2025-07-28T15:17:13.351857",
+  "metadata": {
+    "session_id": "09a3ed1a-5a26-4513-855d-6e9a4918f7f6"
+  }
+}

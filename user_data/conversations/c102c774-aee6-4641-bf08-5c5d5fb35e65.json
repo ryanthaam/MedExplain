@@ -1,0 +1,111 @@
+{
+  "id": "c102c774-aee6-4641-bf08-5c5d5fb35e65",
+  "title": "what does Talimogene Laherparepvec do",
+  "messages": [
+    {
+      "id": "615b8da3-cd06-4962-8311-0e93b51e6fa5",
+      "content": "what does Talimogene Laherparepvec do ",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:03:45.555685",
+      "metadata": {}
+    },
+    {
+      "id": "0afe508e-d6ba-4bfe-bc61-a89465bf62ea",
+      "content": "I'm sorry, but the information about Talimogene Laherparepvec is not provided in the FDA sources given. It's important to consult healthcare professionals for accurate information about this drug. They can provide detailed information based on official FDA sources and personal medical expertise.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:03:50.128769",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Lisinopril",
+            "section": "Contraindications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Warnings",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Description",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Metformin",
+            "section": "Contraindications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Metformin\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Amlodipine",
+            "section": "Adverse Reactions",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Amlodipine\"",
+            "last_updated": "2025-07-28"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "f9dae7e9-a6d6-4e98-bb2a-b5f83807137d",
+      "content": "what does ibuprofen does?",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:04:45.979308",
+      "metadata": {}
+    },
+    {
+      "id": "5689fa66-fd38-4eff-a408-aa38426a3d2e",
+      "content": "I'm sorry, but the information provided does not include specific details about Ibuprofen. It's important to note that Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain, reduce inflammation, and lower fever. However, for detailed information about its uses, side effects, and precautions, please refer to the official FDA sources or consult with a healthcare professional.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:04:50.835809",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Metformin",
+            "section": "Indications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Metformin\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Amlodipine",
+            "section": "Adverse Reactions",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Amlodipine\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Metformin",
+            "section": "Adverse Reactions",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Metformin\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Indications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Description",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:01:47.639532",
+  "updated_at": "2025-07-28T15:04:50.835845",
+  "metadata": {
+    "session_id": "e5a7ead5-9c01-4eb5-9f9f-1747dc4c638e"
+  }
+}

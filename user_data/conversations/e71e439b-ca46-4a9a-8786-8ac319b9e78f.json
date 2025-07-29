@@ -1,0 +1,43 @@
+{
+  "id": "e71e439b-ca46-4a9a-8786-8ac319b9e78f",
+  "title": "What are the side effects of",
+  "messages": [
+    {
+      "id": "200baa94-3322-46fc-a6e2-16b4eb7e226c",
+      "content": "What are the side effects of ibuprofen?",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:27:33.412315",
+      "metadata": {}
+    },
+    {
+      "id": "4474aae2-dde2-4da8-9084-1dcdf4dec8ca",
+      "content": "I'm sorry, but the information provided does not include any details about the side effects of ibuprofen. It's important to consult with a healthcare professional or refer to the FDA-approved labeling for ibuprofen for accurate information about its potential side effects.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:27:36.795960",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Metformin",
+            "section": "Adverse Reactions"
+          },
+          {
+            "drug": "Hydrochlorothiazide",
+            "section": "Adverse Reactions"
+          },
+          {
+            "drug": "Amlodipine",
+            "section": "Adverse Reactions"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f SAFETY INFORMATION: This information about side effects, interactions, and contraindications is from FDA sources for educational purposes. Your individual risk factors may differ. Always inform your healthcare provider about all medications, supplements, and health conditions. Seek immediate medical attention if you experience serious adverse reactions."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:24:50.067741",
+  "updated_at": "2025-07-28T15:27:36.795991",
+  "metadata": {
+    "session_id": "1c38e696-55e8-4ba8-ba62-956c25367d5d"
+  }
+}

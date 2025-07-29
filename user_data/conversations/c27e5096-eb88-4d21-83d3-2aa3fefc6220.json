@@ -1,0 +1,30 @@
+{
+  "id": "c27e5096-eb88-4d21-83d3-2aa3fefc6220",
+  "title": "shoudl i taek what are the",
+  "messages": [
+    {
+      "id": "da5a87e2-ee65-4542-885b-3a2ed19dfb99",
+      "content": "shoudl i taek what are the Levetiracetam daily",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:47:42.899570",
+      "metadata": {}
+    },
+    {
+      "id": "fab15265-2db5-423d-9163-1173a8654c1f",
+      "content": "I don't have information about this specific medication in my current database. \n\n\ud83d\udccb **I currently have information about these medications:**\nAlbuterol, Amlodipine, Botulinum, Gabapentin, Hydrochlorothiazide, Ibuprofen, Lisinopril, Losartan, Metformin, Metoprolol.\n(and 3 more...)\n\nYou can ask about any of these, or contact your healthcare provider for information about other medications.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:47:43.966284",
+      "metadata": {
+        "confidence": "Low",
+        "safety_warning": false,
+        "sources": [],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:47:33.904489",
+  "updated_at": "2025-07-28T15:47:43.966299",
+  "metadata": {
+    "session_id": "69213a35-8d24-47e8-a27a-ddf4ecbd7f36"
+  }
+}

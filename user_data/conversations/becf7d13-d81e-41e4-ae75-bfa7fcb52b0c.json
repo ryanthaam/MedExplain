@@ -1,0 +1,139 @@
+{
+  "id": "becf7d13-d81e-41e4-ae75-bfa7fcb52b0c",
+  "title": "What are the side effects of",
+  "messages": [
+    {
+      "id": "8a84e6c0-8018-45c0-8db5-1b537d7e41e9",
+      "content": "What are the side effects of ibuprofen?",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:31:53.035856",
+      "metadata": {}
+    },
+    {
+      "id": "b52ce3d7-a57a-4bad-8460-21f98d5c45a6",
+      "content": "Based on the FDA sources provided, ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms of an allergic reaction may include rash, facial swelling, asthma (wheezing), hives, skin reddening, shock, and blisters. If an allergic reaction occurs, it is advised to stop use and seek medical help right away. \n\nAdditionally, ibuprofen, which is a type of NSAID, may cause severe stomach bleeding. The risk is higher if you take more or for a longer time than directed, take a blood thinning (anticoagulant) or steroid drug, have had stomach ulcers or bleeding problems, or have 3 or more alcoholic drinks every day while using this product (Source 1).\n\nPlease note that this information does not include all possible side effects of ibuprofen. For a complete list of potential side effects, please consult your healthcare provider or pharmacist. Always consult a healthcare professional before starting or stopping any medication.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:32:01.912427",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Ibuprofen",
+            "section": "Warnings"
+          },
+          {
+            "drug": "Ibuprofen",
+            "section": "Indications"
+          },
+          {
+            "drug": "Ibuprofen",
+            "section": "Dosage"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f SAFETY INFORMATION: This information about side effects, interactions, and contraindications is from FDA sources for educational purposes. Your individual risk factors may differ. Always inform your healthcare provider about all medications, supplements, and health conditions. Seek immediate medical attention if you experience serious adverse reactions."
+      }
+    },
+    {
+      "id": "41da528e-eee5-4bc3-805d-e0e7ee513a2d",
+      "content": "what does Talimogene Laherparepvec do",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:32:55.123842",
+      "metadata": {}
+    },
+    {
+      "id": "4a12f1dc-46ef-4775-b139-fd71cbc61bcc",
+      "content": "Talimogene Laherparepvec, also known as Imlygic, is a genetically modified live, attenuated Herpes Simplex Virus-1 (HSV-1). It has been altered using recombinant methods to express human Granulocyte-Macrophage Colony-Stimulating Factor (huGM-CSF). The exact mechanism of action is not provided in the sources, but it is used for intralesional injection, meaning it is injected directly into lesions that are visible, palpable, or detectable by ultrasound guidance [Source 1, Source 3].\n\nPlease note that this information is based on the provided FDA sources. For a more detailed understanding of how Talimogene Laherparepvec works, please consult a healthcare professional.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:33:03.639929",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Talimogene",
+            "section": "Description"
+          },
+          {
+            "drug": "Talimogene",
+            "section": "Contraindications"
+          },
+          {
+            "drug": "Talimogene",
+            "section": "Dosage"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "c86072e3-f686-4b45-83f9-ce3b16946888",
+      "content": "should i take Botulinum Toxins: OnabotulinumtoxinA, AbobotulinumtoxinA, RimabotulinumtoxinB, IncobotulinumtoxinA",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:33:48.338982",
+      "metadata": {}
+    },
+    {
+      "id": "79ba3b8f-e18e-41c8-ae78-02101273ea9c",
+      "content": "The information provided does not specifically mention the Botulinum Toxins: OnabotulinumtoxinA, AbobotulinumtoxinA, RimabotulinumtoxinB, IncobotulinumtoxinA. The drug Botulinum, as mentioned in the sources, is part of a formulation under the brand name B-Force. This formulation is indicated for temporary relief of fever, sore throat, and acute irritation of the bladder (Source 3). The recommended dosage is 10 drops orally, 3 times a day, and it's advised to consult a physician for use in children under 12 years of age (Source 1). \n\nWarnings for this drug include consulting a healthcare professional before use if pregnant or breastfeeding, and seeking immediate medical help in case of overdose (Source 2). \n\nHowever, whether you should take any form of Botulinum Toxins, including OnabotulinumtoxinA, AbobotulinumtoxinA, RimabotulinumtoxinB, IncobotulinumtoxinA, is a decision that should be made in consultation with your healthcare provider. They can provide guidance based on your specific health situation and needs. Always consult a healthcare professional before starting any new medication.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:34:00.232030",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Botulinum",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Botulinum",
+            "section": "Warnings"
+          },
+          {
+            "drug": "Botulinum",
+            "section": "Indications"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    },
+    {
+      "id": "d0f95952-5bfa-41ec-a3d4-a3b60190f496",
+      "content": "can i take panadol daily",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:39:31.156348",
+      "metadata": {}
+    },
+    {
+      "id": "96570ca2-b137-4fbe-b620-c0799cde0bee",
+      "content": "I'm sorry, but the information you're asking for about the daily use of Panadol isn't available in the FDA sources provided. It's important to always follow the instructions provided by your healthcare professional or the directions on the medication's packaging. If you have any questions or concerns about how often you can take Panadol, please consult with your doctor or pharmacist.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:39:35.312781",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Omeprazole",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Metoprolol",
+            "section": "Dosage"
+          },
+          {
+            "drug": "Metformin",
+            "section": "Dosage"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:31:46.092413",
+  "updated_at": "2025-07-28T15:39:35.312798",
+  "metadata": {
+    "session_id": "f70568bc-f165-4edc-a9c4-87c4d3919ff1"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "e0937872-f491-4b91-8515-10560ee1b321",
+  "title": "what does ibruprofen does",
+  "messages": [
+    {
+      "id": "2c89de1d-faa5-4878-8c7e-7ff1c3a5b318",
+      "content": "what does ibruprofen does",
+      "is_user": true,
+      "timestamp": "2025-07-28T15:13:10.699537",
+      "metadata": {}
+    },
+    {
+      "id": "e62896bf-4351-43af-8f07-11d1ef6fc491",
+      "content": "I'm sorry, but the information provided does not include any details about Ibuprofen. It's important to note that Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to relieve pain, reduce inflammation, and lower fever. However, for specific information about Ibuprofen, including its uses, side effects, and precautions, please refer to the official FDA sources or consult with a healthcare professional.",
+      "is_user": false,
+      "timestamp": "2025-07-28T15:13:16.082751",
+      "metadata": {
+        "confidence": "High",
+        "safety_warning": false,
+        "sources": [
+          {
+            "drug": "Hydrochlorothiazide",
+            "section": "Indications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Hydrochlorothiazide\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Amlodipine",
+            "section": "Adverse Reactions",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Amlodipine\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Lisinopril",
+            "section": "Indications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Lisinopril\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Metformin",
+            "section": "Indications",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Metformin\"",
+            "last_updated": "2025-07-28"
+          },
+          {
+            "drug": "Simvastatin",
+            "section": "Description",
+            "url": "https://api.fda.gov/drug/label.json?search=openfda.brand_name:\"Simvastatin\"",
+            "last_updated": "2025-07-28"
+          }
+        ],
+        "disclaimer": "\u26a0\ufe0f IMPORTANT DISCLAIMER: This information is for educational purposes only and is not medical advice. Always consult your healthcare provider before starting, stopping, or changing any medication. This information comes from FDA sources but should not replace professional medical consultation."
+      }
+    }
+  ],
+  "created_at": "2025-07-28T15:11:35.434586",
+  "updated_at": "2025-07-28T15:13:16.082774",
+  "metadata": {
+    "session_id": "95e1bce2-23e2-43af-9093-21d60b7c5e15"
+  }
+}
