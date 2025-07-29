@@ -9,6 +9,7 @@ from pydantic import BaseModel
 from typing import List, Optional
 import uvicorn
 import sys
+import os
 from pathlib import Path
 
 # Add src to path for imports
@@ -23,9 +24,22 @@ app = FastAPI(
 )
 
 # Enable CORS for React frontend
+allowed_origins = [
+    "http://localhost:3000", 
+    "http://127.0.0.1:3000"
+]
+
+# Add production origins if in production
+if os.getenv("ENVIRONMENT") == "production":
+    # Add your Netlify domain here once deployed
+    allowed_origins.extend([
+        "https://*.netlify.app",
+        "https://medexplain.netlify.app"  # Replace with your actual domain
+    ])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -165,14 +179,23 @@ async def health_check():
     }
 
 if __name__ == "__main__":
+    # Get environment variables with defaults
+    port = int(os.getenv("PORT", 8000))
+    host = os.getenv("HOST", "0.0.0.0")
+    environment = os.getenv("ENVIRONMENT", "development")
+    
     print("🚀 Starting MedExplain FastAPI server...")
-    print("📚 Frontend will be available at: http://localhost:3000")
-    print("🔗 API docs available at: http://localhost:8000/docs")
+    print(f"🌍 Environment: {environment}")
+    print(f"📍 Running on: http://{host}:{port}")
+    
+    if environment == "development":
+        print("📚 Frontend will be available at: http://localhost:3000")
+        print("🔗 API docs available at: http://localhost:8000/docs")
     
     uvicorn.run(
         "backend_server:app",
-        host="0.0.0.0",
-        port=8000,
-        reload=True,
+        host=host,
+        port=port,
+        reload=environment == "development",
         log_level="info"
     )
